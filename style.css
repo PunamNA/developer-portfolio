@@ -7,6 +7,9 @@ h1{
 .color{
     color:chocolate
 }
+.rong{
+    color:rgb(194, 98, 29)
+}
 .develop{
     display: flex;
     margin-bottom: 200px;
@@ -26,4 +29,16 @@ h1{
     background-color: rgb(202, 133, 4);
     padding: 8px 40px;
     border-radius: 5px;
+}
+.mission{
+    width:38% ;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow:10px 10px 40px rgb(172, 150, 150);
+    border-left: 7px solid darkblue;
+}
+footer p{
+    text-align: center;
 }
